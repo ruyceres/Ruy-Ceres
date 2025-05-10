@@ -1,17 +1,18 @@
-baseURL = 'https://ruyceres.com/'
-languageCode = 'es-mx'
-title = 'Ruy Ceres'
-theme = 'PaperMod'
+baseURL = "https://ruyceres.com/"
+languageCode = "es"
+title = "Letras Varias"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+enableRobotsTXT = true
 
 [params]
-  author = "Ruy Ceres"
-  ShowBreadCrumbs = true
+  description = "Un cuaderno digital sobre lecturas, intuiciones y resonancias."
   ShowReadingTime = true
+  ShowShareButtons = true
   ShowPostNavLinks = true
-
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "Sobre mí"
-    url = "/about/"
-    weight = 1
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  disableScrollToTop = false
