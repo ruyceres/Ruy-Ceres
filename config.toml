@@ -8,7 +8,7 @@ theme = "PaperMod"
 enableRobotsTXT = true
 
 [params]
-  description = "Un cuaderno digital sobre lecturas, intuiciones y resonancias."
+  description = "Blog de literatura"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
