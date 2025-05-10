@@ -16,3 +16,7 @@ enableRobotsTXT = true
   ShowCodeCopyButtons = true
   ShowWordCount = true
   disableScrollToTop = false
+
+[params.homeInfoParams]
+  Title = "Letras Varias"
+  Content = "Blog de literatura"
