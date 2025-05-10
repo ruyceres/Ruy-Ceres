@@ -1,0 +1,17 @@
+baseURL = 'https://ruyceres.com/'
+languageCode = 'es-mx'
+title = 'Ruy Ceres'
+theme = 'PaperMod'
+
+[params]
+  author = "Ruy Ceres"
+  ShowBreadCrumbs = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "Sobre mí"
+    url = "/about/"
+    weight = 1
