@@ -16,6 +16,8 @@ enableRobotsTXT = true
   ShowCodeCopyButtons = true
   ShowWordCount = true
   disableScrollToTop = false
+  ShowPostCover = true
+  ShowImageInList = true
 
 [params.homeInfoParams]
   Title = "Letras Varias"
