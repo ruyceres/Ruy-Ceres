@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Ruy Ceres</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Ruy Ceres</description>
+    <title>Tags on Letras Varias</title>
+    <link>https://ruyceres.com/tags/</link>
+    <description>Recent content in Tags on Letras Varias</description>
     <generator>Hugo -- 0.147.2</generator>
-    <language>es-mx</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ruyceres.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coliseo</title>
+      <link>https://ruyceres.com/tags/coliseo/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ruyceres.com/tags/coliseo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Epigrama</title>
+      <link>https://ruyceres.com/tags/epigrama/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ruyceres.com/tags/epigrama/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marcial</title>
+      <link>https://ruyceres.com/tags/marcial/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ruyceres.com/tags/marcial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poesía</title>
+      <link>https://ruyceres.com/tags/poes%C3%ADa/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ruyceres.com/tags/poes%C3%ADa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roma</title>
+      <link>https://ruyceres.com/tags/roma/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ruyceres.com/tags/roma/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
