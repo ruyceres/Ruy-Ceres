@@ -4,7 +4,7 @@ date: 2024-09-23
 author: "Ruy Ceres"
 categories: ["Literatura", "Historia", "Roma Antigua"]
 tags: ["Marcial", "Epigrama", "Coliseo", "Roma", "Poesía"]
-image: "img/posts/marcial/marcial.jpg"
+image: "img/posts/marcial/marcial.jpeg"
 ---
 
 El poeta hispanorromano Marcial se mudó a Roma para probar suerte como poeta en la gran urbe. Llegó a la capital del Imperio desde su provinciana Bílbilis, en Hispania, a la edad de 26 años, aproximadamente en el año 64. Dieciséis años pasó deambulando por las calles de Roma como cliente, dependiendo de sus relaciones de mecenazgo y escribiendo al servicio de varios patrones patricios. Primero, atravesó graves dificultades, pero muy pronto, y gracias, sobre todo a su gran ingenio, logró adquirir las cualidades de la *urbanitas*, gracias a la cual se incorporó rápidamente en el núcleo de la alta sociedad romana y pudo medrar en ella, hasta tal punto que, hacia el año 80, se había convertido en cliente del emperador mismo. La urbanidad o *urbanitas* consiste en las cualidades de elegancia, refinamiento y cultura propias de alguien que habita una ciudad. *Urbanum* se opone a *rusticum* o rústico, que se refiere a todo lo que pertenece a la cultura del campo.
